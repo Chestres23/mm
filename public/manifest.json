@@ -1,0 +1,9 @@
+{
+  "name": "Feliz Dia de la Mujer",
+  "short_name": "Dia Mujer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff4f8",
+  "theme_color": "#f04f9a",
+  "icons": []
+}
