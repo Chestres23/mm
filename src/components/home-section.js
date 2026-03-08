@@ -6,7 +6,7 @@ class HomeSection extends HTMLElement {
           <p class="eyebrow">8 de Marzo</p>
           <h1>Feliz Dia de la Mujer</h1>
           <p>
-            Admiro tu fuerza, valentia, determinacion, tu ternura y esa luz tan bonita que llevas dentro.
+            Admiro tu fuerza, valentia, determinacion, tu ternura y esa luz tan bonita que llevas dentro, gracias por tu lucha diaria, por tus sueños y por todo lo que aportas.
           </p>
           <div class="hero-actions">
             <button class="cta" data-go="mensajes">Ver mensajes</button>
